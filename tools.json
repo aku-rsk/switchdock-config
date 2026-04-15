@@ -1,9 +1,10 @@
 {
   "leonardo": "https://app.leonardo.ai",
-  "canva": "https://www.canva.com/id_id/login/",
-  "email": "https://mailmeteor.com/tools/gmail-generator",
+  "canva": "https://www.canva.com",
+  "invite": "https://dash-genflow.web.app",
+  "email": "https://mail.google.com",
   "email_temp": "https://temp-mail.id",
-  "invite":"https://www.canva.com/brand/join?token=Yxs97_ePHJFjXGSMErRUdg&referrer=team-invite",
-  "team":"https://www.canva.com/settings/team_details",
-  "genprompt":"https://ai.studio/apps/drive/1jC_khD_KnDYcw4UmbV-N6FRrwRa1f7az?fullscreenApplet=true"
+  "team": "https://www.canva.com/settings/team_details",
+  "genprompt": "https://ai.studio/apps/drive/1jC_khD_KnDYcw4UmbV-N6FRrwRa1f7az?fullscreenApplet=true",
+  "genprompt2": "LINK_BARU_KAMU_DI_SINI"
 }
