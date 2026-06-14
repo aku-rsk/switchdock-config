@@ -1,12 +1,12 @@
 [
   {
     "label": "Motion 3.0",
-    "value": "kwaivgi\\kling-v3-motion-control",
+    "value": "kwaivgi%0D%0A/kling-v3-motion-control",
     "maskLabel": "KLING MOTION NEW"
   },
   {
     "label": "Seedance 2.0",
-    "value": "bytedance\\seedance-2.0",
+    "value": "bytedance%0D%0A/seedance-2.0",
     "maskLabel": "SEEDANCE 2.0 NEW"
   }
 ]
