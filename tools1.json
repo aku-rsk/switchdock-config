@@ -27,6 +27,26 @@
         { "label": "Delete", "tool": "delete", "activeIfCanvaLocked": true, "note": "Keluar tim Canva lama" },
         { "label": "Access Tim RSK", "tool": "invite", "disableIfCanvaLocked": true, "note": "Join ke tim Canva baru" }
       ]
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "icon": "email.jpg",
+      "submenus": [
+        { "label": "Gmail", "tool": "email" },
+        { "label": "Temp", "tool": "email_temp" }
+      ],
+      "note": "Gunakan link email aktif dari sistem."
+    },
+    {
+      "key": "genprompt",
+      "label": "GenPrompt",
+      "icon": "genprompt.jpg",
+      "submenus": [
+        { "label": "GP v1", "tool": "genprompt" },
+        { "label": "GP v2", "tool": "genprompt2" }
+      ],
+      "note": "Login email saat pertama kali membuka GenPrompt."
     }
   ]
 }
