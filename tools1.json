@@ -34,7 +34,7 @@
       "label": "Email",
       "icon": "email.jpg",
       "submenus": [
-        { "label": "Gmail", "tool": "email" }
+        { "label": "RSK Mail", "tool": "email" }
       ],
       "note": "Gunakan link email aktif dari sistem."
     },
