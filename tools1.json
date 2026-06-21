@@ -4,7 +4,7 @@
     "leonardo": "https://app.leonardo.ai",
     "canva": "https://www.canva.com",
     "invite": "https://www.canva.com/brand/join?token=kjjsK3WPeHiZQAyrjrDX9A&referrer=team-invite",
-    "email": "https://mailmeteor.com/tools/gmail-generator",
+    "email": "https://rskjago.cloud/",
     "email_temp": "https://temp-mail.id",
     "genprompt": "https://gemini.google.com/share/d403a0c95a19",
     "genprompt2": "https://genova-plus.web.app/"
@@ -34,8 +34,7 @@
       "label": "Email",
       "icon": "email.jpg",
       "submenus": [
-        { "label": "Gmail", "tool": "email" },
-        { "label": "Temp", "tool": "email_temp" }
+        { "label": "Gmail", "tool": "email" }
       ],
       "note": "Gunakan link email aktif dari sistem."
     },
