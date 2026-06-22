@@ -44,7 +44,7 @@
       "icon": "genprompt.jpg",
       "submenus": [
         { "label": "GP v1", "tool": "genprompt" },
-        { "label": "GP v2", "tool": "genprompt2" }
+        { "label": "Genova+", "tool": "genprompt2" }
       ],
       "note": "Login email saat pertama kali membuka GenPrompt."
     }
